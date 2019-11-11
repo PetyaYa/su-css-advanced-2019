@@ -1,0 +1,24 @@
+title: CSS-Advanced
+email: petity55@gmail.com
+description: Hi there 
+baseurl: "" 
+url: "" 
+twitter_username: pyaneva
+github_username:  pyaneva
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
