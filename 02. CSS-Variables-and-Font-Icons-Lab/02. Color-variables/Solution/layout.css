@@ -1,0 +1,34 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+ul{
+    display: flex;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    padding-bottom: 2em;
+    list-style: none;
+}
+
+h1 {
+    --color-heading: #275468;
+}
+
+p {
+    --color-p: #275468;
+}
+
+button {
+    --color-bg-button: #FFC701;
+    --color-button: #ffffff;
+    padding: 0.8em;
+    border-radius: 7px;
+    border: none;
+    width: 85px;
+}
+
+button:hover {
+    --button-hover-bg: #275468;
+}

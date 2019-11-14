@@ -1,0 +1,17 @@
+h1 {
+    color: var(--color-heading);
+}
+
+p {
+    color: var(--color-p);
+}
+
+button {
+    background-color: var(--color-bg-button);
+    color: var(--color-button);
+}
+
+button:hover {
+    background-color: var(--button-hover-bg);
+    color: var(--color-bg-button);
+}

@@ -1,0 +1,17 @@
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+p {
+    --font-content: 'PT Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    --font-headings: 'PT Serif', serif;
+}
+
+header {
+    text-align: center;
+}
